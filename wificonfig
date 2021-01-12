@@ -14,4 +14,4 @@ sudo batctl if add wlan0
 sleep 1s
 sudo ifconfig bat0 up
 sleep 5s
-sudo ifconfig bat0 172.27.0.1/16
+
